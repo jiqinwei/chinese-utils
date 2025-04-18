@@ -15233,7 +15233,7 @@
 覀=xi1
 要=yao4,yao1
 覂=feng3
-覃=tan2,qin2
+覃=qin2,tan2
 覄=
 覅=
 覆=fu4
